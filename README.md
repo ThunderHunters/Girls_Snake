@@ -25,7 +25,7 @@ Game Over:
 The game ends if the snake collides with the boundaries or itself.
 You can start a new game by pressing any arrow key after the game over screen.
 
-Acknowledgments
+Acknowledgments:
 Girl Snake is inspired by the classic Snake game and various Python game development tutorials.
 Thanks to the Python community for creating and maintaining the Turtle and Pygame libraries.
 Have fun playing Girls Snake!
